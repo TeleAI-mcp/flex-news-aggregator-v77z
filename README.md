@@ -1,2 +1,3 @@
-# flex-news-aggregator-v77z
-Automated issue comment bot repository
+# Flex News Aggregator V77Z
+
+Automated issue comment bot repository.
